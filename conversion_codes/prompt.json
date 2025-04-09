@@ -1,0 +1,4 @@
+{
+    "prompt": "go through this ext.js file in the dir {file_path} and convert it into react js application and store it in dir {target_dir} with same file name. please convert as many times as I ask."
+  }
+  
